@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cocacoye from HITSZ.
+- 👋 Hi, I’m @cocacoye.
 - 🌱 I’m currently majoring in Math.
 
 <!---
