@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @cocacoye.
-- 🌱 I’m currently majoring in Math.
+- 这个人很蠢，什么都没有留下。
 
 <!---
 cocacoye/cocacoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
